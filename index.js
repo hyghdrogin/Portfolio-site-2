@@ -17,7 +17,6 @@
 //                 <li><a href="/">Home</a></li>
 //                 <li><a href="/about">About</a></li>
 //                 <li><a href="/contact">Contact</a></li>
-//                 <li><a href="https://docs.google.com/document/d/1OS68MLbL7-QdkGdmMM0Ac6qy130mJ3TmB1jsGIyV1u8">Resume</a></li>
 //             </ul>
 //         </header>
 //         <p>Hi there, I'm <span color="red">EMMANUEL</span></p>
@@ -43,7 +42,6 @@
 //                 <li><a href="/">Home</a></li>
 //                 <li><a href="/about">About</a></li>
 //                 <li><a href="/contact">Contact</a></li>
-//                 <li><a href="https://docs.google.com/document/d/1OS68MLbL7-QdkGdmMM0Ac6qy130mJ3TmB1jsGIyV1u8">Resume</a></li>
 //             </ul>
 //         </header>
 //         <section>
@@ -79,7 +77,7 @@
 //                 <li><a href="/">Home</a></li>
 //                 <li><a href="/about">About</a></li>
 //                 <li><a href="/contact">Contact</a></li>
-//                 <li><a href="https://docs.google.com/document/d/1OS68MLbL7-QdkGdmMM0Ac6qy130mJ3TmB1jsGIyV1u8">Resume</a></li>
+
 //             </ul>
 //         </header>
 //         <h2>GET IN TOUCH</h2>
